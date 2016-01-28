@@ -1,0 +1,84 @@
+header{
+	background-color: #F5F5F5;
+	border-bottom: solid black;
+	height: 100px;
+}
+.texto1{
+	font-size: 22px;
+	text-align: center;
+	position: relative;
+	padding: 25px;
+	font-family: Verdana;
+	color: #DBDBDB; 		
+}
+form{
+	position: relative;
+	top: 30px;
+	left: 50px;		
+}
+input{
+	width: 150px;
+	height:30px;	
+	background-color: #F5F5F5;
+
+}
+.lupita{
+	width: 14px;
+	height: 14px;
+	position: relative;
+	top: 5px;
+	left: -20px;
+}
+.banner{
+	width: 998px;
+	height: 450px;
+}
+section{
+	background-color: white;
+}
+.col-7{
+	width: 70%;
+	height:400px;
+}
+.col-5{
+	width: 30%;
+	height: 450px;
+	background-color: #383838;
+}
+.texto2{
+	color:white; 
+	font-family:Calibri;
+	font-size:35px;
+	color:#d3d2d1;
+	 top:10px;
+	 position:relative;
+	 font-weight: bold;
+}
+.rayita{
+	width: 310px;
+	border: solid 1px #BDBDBD;
+	position: relative;
+	top: 20px;
+	box-shadow: #d3d2d1 0px 0px 2px;
+}
+.verde{
+	border: solid 3px #298A08;
+	width: 60px;
+	height: 30px;
+	border-radius: 10%;
+	position: relative;
+	top: 35px;
+	left: -13px;
+	float: left;
+}
+.reseña{
+	color: white;
+	font-family: Arial;
+	position: relative;
+	top: 80px;
+	font-size: 12px;
+	margin: 5px;
+}
+ul{
+	list-style: none;
+}
